@@ -1,6 +1,6 @@
 # Intro
 
-- 👀 I’m interested in ML and DL, IoT, and Quantam Computing
+- Engineer at Microsoft
 - 🌱 I’m currently learning C#,Azure 
 - 💞️ I’m looking to collaborate on Open source projects pertaining to any field. 
 - 📫 How to reach me ... neoseeker189@gmail.com, GitHub
