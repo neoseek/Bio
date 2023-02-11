@@ -1,6 +1,5 @@
 # Intro
 
-- 👋 Hi, I’m @jtapia295
 - 👀 I’m interested in ML and DL, IoT, and Quantam Computing
 - 🌱 I’m currently learning C#,Azure 
 - 💞️ I’m looking to collaborate on Open source projects pertaining to any field. 
